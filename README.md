@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akshaykumar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaykumar93" height="30" width="40" /></a>
 <a href="https://fb.com/100009143497840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009143497840" height="30" width="40" /></a>
-<a href="https://instagram.com/sidha_sadhaa_akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidha_sadhaa_akshay" height="30" width="40" /></a>
+<a href="https://instagram.com/sidha_sadhaa_akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__chauhan_akshay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshaycubicles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaycubicles" height="30" width="40" /></a>
 </p>
 
