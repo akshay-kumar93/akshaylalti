@@ -31,7 +31,6 @@
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaylalti&label=Profile%20views&color=0e75b6&style=flat" alt="akshaylalti" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://akshay-kumar93.web.app](https://akshay-kumar93.web.app)
 
 - 💬 Ask me about **Angular , Asp.net core api , Sql Server**
 
