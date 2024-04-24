@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif
-)](https://akshay-kumar93.web.app/)
+
 
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -7,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaylalti&label=Profile%20views&color=0e75b6&style=flat" alt="akshaylalti" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://akshay-kumar93.web.app](https://akshay-kumar93.web.app)
 
 - 💬 Ask me about **Angular , Asp.net core api , Sql Server**
 
 - 📫 How to reach me **akshayakc94@gmail.com**
 
-- 📄 Know about my experiences [https://akshay-kumar93.web.app/img/Resume%20Akshay.pdf](https://akshay-kumar93.web.app/img/Resume%20Akshay.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +37,6 @@
 
 - 📫 How to reach me **akshayakc94@gmail.com**
 
-- 📄 Know about my experiences [https://akshay-kumar93.web.app/img/Resume%20Akshay.pdf](https://akshay-kumar93.web.app/img/Resume%20Akshay.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
